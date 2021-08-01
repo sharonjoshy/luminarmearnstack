@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+h1{ 
+    text-align: center;
+    font-family: 'Carter One', cursive;;
+}
+
+    .one{
+    
+    width: 10%;
+    height: 175px;
+    background-color: brown;
+         border-width: 2px;
+         border-style:solid;
+         
+         
+    }
+    .two{width: 10%;
+        height: 175px;
+        background-color:blue;
+             border-width: 2px;
+             border-style:solid;
+    
+    }
+    .three{
+        width: 10%;
+        height: 175px;
+        background-color:greenyellow;
+             border-width: 2px;
+             border-style:solid;
+    
+    
+    }
+    .four{
+        width: 10%;
+        height: 175px;
+        background-color:grey;
+        border-width: 2px;
+         border-style:solid;
+    
+    
+    }
+    .five{
+        width: 10%;
+        height: 175px;
+        background-color:cornsilk;
+        border-width: 2px;
+         border-style:solid;
+    
+    
+    
+    }
+  
+

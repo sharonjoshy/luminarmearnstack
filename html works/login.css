@@ -1,0 +1,17 @@
+.first{
+    background-color: var(--color-bg-canvas);
+    
+    
+}
+.one{
+    position: absolute;
+    left: 40%;
+}
+.fifth{
+    position: absolute;
+    top: 120%;
+}
+.fourth{
+    position: absolute;
+    top: 100%;
+}

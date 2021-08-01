@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\html works"
+		},
+		{
+			"path": "..\\..\\html cross roads"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html works"
+	}
+}

@@ -1,0 +1,16 @@
+.fix{
+    position: fixed;
+   top: 30%;
+    left: 20%;
+    width: 10%;
+    height: 10%;
+    background-color: blue;
+}
+.sti{
+position: sticky;
+top:0%;
+    width: 70%;
+    height: 20%;
+    background-color: blueviolet;
+
+}

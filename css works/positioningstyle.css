@@ -1,0 +1,47 @@
+.row{
+    width: 650px;
+    height: 107px;
+    border: 1px black solid;
+    background-color: red;
+    position: relative;
+    left: 30%;
+}
+.row-2{
+    margin-top:20px;
+}
+.col{
+    width: 90px;
+    height: 100px;
+    border: 1px solid white;
+}
+.col-1{background-color:orange;
+    position: absolute;
+  
+}
+.col-2{background-color:purple;
+    position: absolute;
+    left: 105px;
+}
+.col-3{background-color: yellow;
+    position: absolute;
+    left: 210px;
+}
+.col-4{background-color: blue;
+    position: absolute;
+    left: 315px;
+}
+.col-5{background-color: greenyellow;
+    position: absolute;
+    left: 420px;
+}
+.position{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 70%;
+    background-color: black;
+    top: 60%;
+}
+
+
+    
